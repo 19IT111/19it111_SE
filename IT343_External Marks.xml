@@ -1,0 +1,2684 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Administrator</Author>
+  <LastAuthor>admin</LastAuthor>
+  <Created>2021-12-17T08:24:08Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12225</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="IT343 ">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="154" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="14" ss:StyleID="s63" ss:Width="160.5"/>
+   <Column ss:Width="160.5"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SYSCOL1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SYSCOL2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SYSCOL3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INSTITUTE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ACADEMIC YEAR</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DEGREE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SEMESTER</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">TERM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">EXAM YEAR MONTH</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SUBJECT</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">STUDENT TYPE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">StudentID</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">STUDENT NAME</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sec-1THEORY ((Sec-1+Sec-2)=70) </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sec-2THEORY ((Sec-1+Sec-2)=70) </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32126</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT001</Data></Cell>
+    <Cell><Data ss:Type="String">AKBARI JAY JAYNTIBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31814</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT002</Data></Cell>
+    <Cell><Data ss:Type="String">AMADAVADI PRAGNENKUMAR MINISHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31911</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT003</Data></Cell>
+    <Cell><Data ss:Type="String">AMRUTIYA ZEELKUMAR VIPULKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31250</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT004</Data></Cell>
+    <Cell><Data ss:Type="String">ANTALA NEVILY JANAKBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31713</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT005</Data></Cell>
+    <Cell><Data ss:Type="String">ATODARIA YUVRAJSINH VIRENDRASINH</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32402</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT006</Data></Cell>
+    <Cell><Data ss:Type="String">BALAR RUTVIK NARESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32993</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT007</Data></Cell>
+    <Cell><Data ss:Type="String">BANGORIYA ROHAN RAMNIKBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32225</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT008</Data></Cell>
+    <Cell><Data ss:Type="String">BAROT SAMEER RAJENDRABHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31854</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT009</Data></Cell>
+    <Cell><Data ss:Type="String">SHREYANSH UMESHCHANDRA BHAGAT</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32388</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT010</Data></Cell>
+    <Cell><Data ss:Type="String">BHATTI MAYUR AJAYBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31702</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT012</Data></Cell>
+    <Cell><Data ss:Type="String">BHAVSAR KATHAN MAULIKBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32925</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT013</Data></Cell>
+    <Cell><Data ss:Type="String">BHEDA RAJ SNEHAL</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32139</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT014</Data></Cell>
+    <Cell><Data ss:Type="String">BHUVA KEVAL MUKESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32045</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT015</Data></Cell>
+    <Cell><Data ss:Type="String">BHUVA PINAK MITESHKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32353</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT016</Data></Cell>
+    <Cell><Data ss:Type="String">BUTANI MANAV MAGANBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31566</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT017</Data></Cell>
+    <Cell><Data ss:Type="String">BUTANI OMSHREE ATULBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32995</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT018</Data></Cell>
+    <Cell><Data ss:Type="String">BUTANI RUTKUMAR RAJESH</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32892</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT019</Data></Cell>
+    <Cell><Data ss:Type="String">BUTANI RUTU JITESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32406</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT020</Data></Cell>
+    <Cell><Data ss:Type="String">CARPENTER KHUSHI AMBERISH</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32054</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT021</Data></Cell>
+    <Cell><Data ss:Type="String">CHANDRAVADIA VIPUL KUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32708</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT022</Data></Cell>
+    <Cell><Data ss:Type="String">CHAUDHARI PARTH HIRENBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32307</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT023</Data></Cell>
+    <Cell><Data ss:Type="String">CHAUDHARI ZEEL HASMUKHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31988</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT024</Data></Cell>
+    <Cell><Data ss:Type="String">CHAUHAN ANUBEN DAHYABHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32466</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT025</Data></Cell>
+    <Cell><Data ss:Type="String">CHAUHAN RUDRA PRAMODBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32937</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT026</Data></Cell>
+    <Cell><Data ss:Type="String">CHAVDA PRADEEPSINH ANOPSINH</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32231</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT027</Data></Cell>
+    <Cell><Data ss:Type="String">DABHI DHRUVRAJSINH AJITSINH</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32253</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT028</Data></Cell>
+    <Cell><Data ss:Type="String">DADHANIYA RAJ DILIPBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32177</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT029</Data></Cell>
+    <Cell><Data ss:Type="String">DARJI UTSAVKUMAR HASMUKHKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32998</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT030</Data></Cell>
+    <Cell><Data ss:Type="String">DELVADIYA KARAN MAHENDRABHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32958</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT031</Data></Cell>
+    <Cell><Data ss:Type="String">DESAI AMAN HARISHKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31849</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT032</Data></Cell>
+    <Cell><Data ss:Type="String">DESAI MANSI JAGDISHKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31754</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT033</Data></Cell>
+    <Cell><Data ss:Type="String">DEVLEKAR YATISH DINESH</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32160</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT034</Data></Cell>
+    <Cell><Data ss:Type="String">GABANI ARPIT HIMMATBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32124</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT035</Data></Cell>
+    <Cell><Data ss:Type="String">GADHIYA KRUTIK RAJESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31580</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT036</Data></Cell>
+    <Cell><Data ss:Type="String">GAJERA RAJKUMAR CHANDULAL</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32232</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT037</Data></Cell>
+    <Cell><Data ss:Type="String">GANDHI HARDIK MEHULKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32079</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT038</Data></Cell>
+    <Cell><Data ss:Type="String">GANDHI SHRUTI PARESH</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31951</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT039</Data></Cell>
+    <Cell><Data ss:Type="String">GHADIYA AYUSH HARESH</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32369</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT041</Data></Cell>
+    <Cell><Data ss:Type="String">GODIWALA KRUSHANT NAINESH</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32535</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT042</Data></Cell>
+    <Cell><Data ss:Type="String">GOHIL DIVYANSHKUMAR GAMBHIRSINH</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32966</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT043</Data></Cell>
+    <Cell><Data ss:Type="String">GOHIL JENIS RASHMIKANT</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32258</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT044</Data></Cell>
+    <Cell><Data ss:Type="String">GONDALIYA KEYURKUMAR BABUBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32143</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT045</Data></Cell>
+    <Cell><Data ss:Type="String">GORIYA MEGHA KETANKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31433</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT046</Data></Cell>
+    <Cell><Data ss:Type="String">GUJARATI AUM AMITKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32885</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT047</Data></Cell>
+    <Cell><Data ss:Type="String">JADAV KRUTIKSINH AJITSINH</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31725</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT048</Data></Cell>
+    <Cell><Data ss:Type="String">JHAVERI DRASHTIBEN RIPALKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32461</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT049</Data></Cell>
+    <Cell><Data ss:Type="String">JOBANPUTRA PAVAK ATULBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32291</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT050</Data></Cell>
+    <Cell><Data ss:Type="String">JOSHI YASH MUKESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32152</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT051</Data></Cell>
+    <Cell><Data ss:Type="String">KALATHIYA RUCHIT JAGDISHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">33000</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT052</Data></Cell>
+    <Cell><Data ss:Type="String">KANANI DIXIT DHANJIBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32255</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT053</Data></Cell>
+    <Cell><Data ss:Type="String">KANJARIYA SAHIL MANSUKHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32533</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT054</Data></Cell>
+    <Cell><Data ss:Type="String">KAVAR DEEP MAHESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32764</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT055</Data></Cell>
+    <Cell><Data ss:Type="String">KHATRI FARHAN ASHFAK</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31629</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT056</Data></Cell>
+    <Cell><Data ss:Type="String">KOTAK DEVARSH MANISHKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31828</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT057</Data></Cell>
+    <Cell><Data ss:Type="String">LAD STUTIKUMARI SATISHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32932</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT058</Data></Cell>
+    <Cell><Data ss:Type="String">LADHANI TEJAS RAJESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31894</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT059</Data></Cell>
+    <Cell><Data ss:Type="String">SHREYKUMAR HARSHADKUMAR MAKWANA</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32208</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT061</Data></Cell>
+    <Cell><Data ss:Type="String">MALAVIYA AKSHAY DINESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31803</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT062</Data></Cell>
+    <Cell><Data ss:Type="String">MANDANI VIVEK BHARATBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32987</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT063</Data></Cell>
+    <Cell><Data ss:Type="String">MANDANKA KEVALKUMAR BHIKHABHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31846</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT064</Data></Cell>
+    <Cell><Data ss:Type="String">MANGUKIYA JEET DINESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32435</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT065</Data></Cell>
+    <Cell><Data ss:Type="String">MANIYA KISHANBHAI DINESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31458</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT066</Data></Cell>
+    <Cell><Data ss:Type="String">MAVANI AYUSH MANISHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31651</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT067</Data></Cell>
+    <Cell><Data ss:Type="String">MISTRY CHINTAN AJAYBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31887</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT068</Data></Cell>
+    <Cell><Data ss:Type="String">MODI MIHIR KALPESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32489</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT069</Data></Cell>
+    <Cell><Data ss:Type="String">MORADIYA VEET VINUBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32427</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT070</Data></Cell>
+    <Cell><Data ss:Type="String">NAGAR DHRUVKUMAR DINESHKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32185</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT071</Data></Cell>
+    <Cell><Data ss:Type="String">NASARIWALA SAHIL SAMIRBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32442</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT072</Data></Cell>
+    <Cell><Data ss:Type="String">NATHANI HARSHKUMAR BHARATBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31885</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT073</Data></Cell>
+    <Cell><Data ss:Type="String">NAVADIA SHREY ASHVIN</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32994</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT074</Data></Cell>
+    <Cell><Data ss:Type="String">AKANKSHA PANDEY</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32979</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT075</Data></Cell>
+    <Cell><Data ss:Type="String">PAREKH DEVANSHU MEHUL</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32562</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT076</Data></Cell>
+    <Cell><Data ss:Type="String">PAREKH KAMAL ASHWINKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31666</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT077</Data></Cell>
+    <Cell><Data ss:Type="String">PARIKH KHUSHI SANDIPBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31891</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT078</Data></Cell>
+    <Cell><Data ss:Type="String">PARMAR ANGEL KANTIBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32980</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT080</Data></Cell>
+    <Cell><Data ss:Type="String">PARMAR VATSAL MAHESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32343</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT081</Data></Cell>
+    <Cell><Data ss:Type="String">PARVADIYA RAVIKUMAR VINODBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">33009</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT082</Data></Cell>
+    <Cell><Data ss:Type="String">AAYUSHKUMAR PATEL</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32936</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT084</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL AKSHATKUMAR RAKESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32938</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT085</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL ARSHKUMAR NITINBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32233</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT087</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL BREEZE PRAVINKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31853</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT088</Data></Cell>
+    <Cell><Data ss:Type="String">CHARMI PRAVINBHAI PATEL</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31689</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT089</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL DEEP CHETANBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32883</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT090</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL DEEP NARENDRAKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31622</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT091</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL DEEP SANDIPKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32213</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT092</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL DEV HARSHAD</Data></Cell>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31430</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT093</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL DHAIRYA BIPINKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32934</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT094</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL DHARMIK MUKESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31432</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT095</Data></Cell>
+    <Cell><Data ss:Type="String">DHRUV KAMLESHBHAI PATEL</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31743</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT096</Data></Cell>
+    <Cell><Data ss:Type="String">DHVANI PATEL</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31585</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT097</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL DHYEYKUMAR JIGNESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32129</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT098</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL HIRAK RAKESHKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31429</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT099</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL JATIN HITESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32119</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT100</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL KOMIL BHUPENDRAKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31457</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT101</Data></Cell>
+    <Cell><Data ss:Type="String">KRISHNA JIGNESHKUMAR PATEL</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31431</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT102</Data></Cell>
+    <Cell><Data ss:Type="String">KRUNAL PATEL</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31641</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT103</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL MANAN RAJESHKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32930</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT104</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL MIHIR ASHOKBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31618</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT105</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL NISHIT NARENDRAKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32424</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT107</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL RUTUL MANUBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32456</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT108</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL SHACHI PINAKIN</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31434</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT109</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL SHIVAM CHIRAGBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31556</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT110</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL SHREYALIKUMARI RAJNIKANT</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32941</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT111</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL SHREYAS SANJAYBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32952</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT112</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL TIRTH YASHVANTBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32539</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT113</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL VEDANT BHAVENBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32953</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT114</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL VIRAGKUMAR PRADEEPBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31687</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT115</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL VISHRUTI JITENDRAKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32999</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT116</Data></Cell>
+    <Cell><Data ss:Type="String">PATEL VRUNDKUMAR MAHESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31587</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT117</Data></Cell>
+    <Cell><Data ss:Type="String">PATVA VIRAJ KAMLESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32204</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT119</Data></Cell>
+    <Cell><Data ss:Type="String">PRAJAPATI KAILASH RAJESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31827</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT120</Data></Cell>
+    <Cell><Data ss:Type="String">PRAJAPATI SAVANKUMAR RAJENDRAKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32250</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT121</Data></Cell>
+    <Cell><Data ss:Type="String">PRAJAPATI VENIS VINODKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32922</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT122</Data></Cell>
+    <Cell><Data ss:Type="String">PUNJABI KRUTARTH SURESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32018</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT123</Data></Cell>
+    <Cell><Data ss:Type="String">RAJVADIYA DHARAM DINESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32007</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT124</Data></Cell>
+    <Cell><Data ss:Type="String">SAVALIYA SAVAN MUKUNDBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31593</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT125</Data></Cell>
+    <Cell><Data ss:Type="String">SAVALIYA SUMIT ASHOKBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32375</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT126</Data></Cell>
+    <Cell><Data ss:Type="String">SHAH AXAT DEVANGBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32528</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT127</Data></Cell>
+    <Cell><Data ss:Type="String">SHAH AYUSH PRAGNESHKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31582</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT128</Data></Cell>
+    <Cell><Data ss:Type="String">SHAH DHRUMILKUMAR JIGARKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31597</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT129</Data></Cell>
+    <Cell><Data ss:Type="String">SHAH DHRUVIL RAJABHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31633</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT130</Data></Cell>
+    <Cell><Data ss:Type="String">SHAH JHANVI SHAILESH</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32221</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT131</Data></Cell>
+    <Cell><Data ss:Type="String">SHAH KAVYA JIGNESH</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31590</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT132</Data></Cell>
+    <Cell><Data ss:Type="String">SHAH KIRTAN VIRALKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32146</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT133</Data></Cell>
+    <Cell><Data ss:Type="String">SHAH POOJAN SWETANGBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">33003</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT134</Data></Cell>
+    <Cell><Data ss:Type="String">SHAH RAJ MINTUKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32884</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT135</Data></Cell>
+    <Cell><Data ss:Type="String">SHEKH MOHAMMAD MAHIR MUNIRBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31992</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT136</Data></Cell>
+    <Cell><Data ss:Type="String">SOJITRA VIYANSHI MUKESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32066</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT137</Data></Cell>
+    <Cell><Data ss:Type="String">SOLANKI ADITYASINH DIPAKKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32888</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT138</Data></Cell>
+    <Cell><Data ss:Type="String">SONAIYA DHAIRYA PARMANANDBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31895</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT139</Data></Cell>
+    <Cell><Data ss:Type="String">SONDAGAR DARSHAKKUMAR RAJESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31497</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT140</Data></Cell>
+    <Cell><Data ss:Type="String">MALAV K SUKHADIA</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32164</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT141</Data></Cell>
+    <Cell><Data ss:Type="String">TANK PARIMAL KISHORBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32268</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT142</Data></Cell>
+    <Cell><Data ss:Type="String">TARPARA VITAN BHASKARBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32127</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT143</Data></Cell>
+    <Cell><Data ss:Type="String">TARSARIYA DARSHAN HARESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32315</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT145</Data></Cell>
+    <Cell><Data ss:Type="String">THAKER KAUTILYA PARAG</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32613</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT146</Data></Cell>
+    <Cell><Data ss:Type="String">THAKKAR MEET BHARATBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">33010</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT147</Data></Cell>
+    <Cell><Data ss:Type="String">DARSHANKUMAR VANOL</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32565</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT148</Data></Cell>
+    <Cell><Data ss:Type="String">VAROTARIYA HARSH KHIMANANDBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31839</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT149</Data></Cell>
+    <Cell><Data ss:Type="String">VEKARIYA JAY NITESHBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">31987</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT150</Data></Cell>
+    <Cell><Data ss:Type="String">VEKARIYA JEELKUMAR ARVINDBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32173</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT151</Data></Cell>
+    <Cell><Data ss:Type="String">VIRADIA HARSH CHANDULAL</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">32935</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">19IT152</Data></Cell>
+    <Cell><Data ss:Type="String">VIRADIYA RAJ ARVINDBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">36190</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">D20IT154</Data></Cell>
+    <Cell><Data ss:Type="String">VAGH SURESH DADUBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">36192</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">D20IT155</Data></Cell>
+    <Cell><Data ss:Type="String">BHAVSAR RAHUL SUNILBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">36203</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">D20IT156</Data></Cell>
+    <Cell><Data ss:Type="String">DOSHI HEET AJAY</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">36222</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">D20IT159</Data></Cell>
+    <Cell><Data ss:Type="String">ANADANI RIYA ATULBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">36231</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">D20IT160</Data></Cell>
+    <Cell><Data ss:Type="String">VADODRIYA PARTH VIJAYKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">36339</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">D20IT161</Data></Cell>
+    <Cell><Data ss:Type="String">RAVAL CHINTAN HEMANTKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">36353</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">D20IT162</Data></Cell>
+    <Cell><Data ss:Type="String">PANCHAL JAY NITINKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">36556</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">D20IT163</Data></Cell>
+    <Cell><Data ss:Type="String">VORA MIHIR RAMNIKBHAI</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">36618</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">D20IT164</Data></Cell>
+    <Cell><Data ss:Type="String">DAVE MIHIR BHARATKUMAR</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="Number">36679</Data></Cell>
+    <Cell><Data ss:Type="Number">6799</Data></Cell>
+    <Cell><Data ss:Type="String">CSPIT</Data></Cell>
+    <Cell><Data ss:Type="String">2021-22</Data></Cell>
+    <Cell><Data ss:Type="String">BTECH(IT)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">FIRST</Data></Cell>
+    <Cell><Data ss:Type="String">November 2021</Data></Cell>
+    <Cell><Data ss:Type="String">IT343 - OPERATING SYSTEM</Data></Cell>
+    <Cell><Data ss:Type="String">REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">D20IT165</Data></Cell>
+    <Cell><Data ss:Type="String">RATHOD SATYAJITSINH GUNVANTSINH</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>153</ActiveRow>
+     <ActiveCol>11</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
